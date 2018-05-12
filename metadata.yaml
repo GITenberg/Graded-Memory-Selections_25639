@@ -1,0 +1,37 @@
+_repo: Graded-Memory-Selections_25639
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editors:
+  - agent_name: Waterman, S. D.
+    gutenberg_agent_id: '31479'
+    url: http://www.gutenberg.org/2009/agents/31479
+  - agent_name: Hughes, Charles C.
+    gutenberg_agent_id: '31481'
+    url: http://www.gutenberg.org/2009/agents/31481
+  - agent_name: McClymonds, John William
+    birthdate: 1848
+    gutenberg_agent_id: '31480'
+    url: http://www.gutenberg.org/2009/agents/31480
+description: ''
+gutenberg_issued: '2008-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25639'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Children''s poetry'
+- !lcc 'PZ'
+title: Graded Memory Selections
+url: http://www.gutenberg.org/ebooks/25639
